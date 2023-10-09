@@ -1,0 +1,822 @@
+{
+  "Appetiser": [
+    {
+      "id": 1,
+      "title": "Cream of Wild Mushroom Soup",
+      "description": "With freshly baked Garlic Baguette",
+      "price": "10.50",
+      "isAvailable": false,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 2,
+      "title": "Bruschetta with Tomato and Basil",
+      "description": "Toasted bread topped with diced tomatoes, fresh basil, and garlic",
+      "price": "8.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 3,
+      "title": "Crispy Calamari Rings",
+      "description": "Fried calamari served with a zesty marinara sauce",
+      "price": "12.95",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 4,
+      "title": "Caprese Salad",
+      "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze",
+      "price": "9.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 5,
+      "title": "Garlic Shrimp Scampi",
+      "description": "Sautéed shrimp in a garlic and butter sauce",
+      "price": "14.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 6,
+      "title": "Mozzarella Sticks",
+      "description": "Breaded mozzarella sticks served with marinara sauce",
+      "price": "7.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 7,
+      "title": "Spinach and Artichoke Dip",
+      "description": "Creamy dip with spinach, artichokes, and melted cheese",
+      "price": "9.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 8,
+      "title": "Stuffed Mushrooms",
+      "description": "Mushroom caps stuffed with a savory filling",
+      "price": "11.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 9,
+      "title": "Fried Pickles",
+      "description": "Crispy battered pickles served with ranch dressing",
+      "price": "8.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 10,
+      "title": "Onion Rings",
+      "description": "Golden-brown onion rings served with ketchup",
+      "price": "7.95",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Salad": [
+    {
+      "id": 11,
+      "title": "Caesar Salad",
+      "description": "Romaine lettuce, croutons, and Caesar dressing",
+      "price": "9.95",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 12,
+      "title": "Greek Salad",
+      "description": "Cucumbers, tomatoes, olives, feta cheese, and Greek dressing",
+      "price": "10.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 13,
+      "title": "Cobb Salad",
+      "description": "Grilled chicken, bacon, avocado, egg, and blue cheese dressing",
+      "price": "12.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 14,
+      "title": "Spinach Salad",
+      "description": "Baby spinach, strawberries, almonds, and balsamic vinaigrette",
+      "price": "11.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 15,
+      "title": "Mediterranean Salad",
+      "description": "Mixed greens, tomatoes, cucumbers, and tzatziki dressing",
+      "price": "10.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 16,
+      "title": "Waldorf Salad",
+      "description": "Apples, celery, walnuts, and mayo-based dressing",
+      "price": "9.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 17,
+      "title": "Taco Salad",
+      "description": "Ground beef, lettuce, tomatoes, cheese, and salsa",
+      "price": "11.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 18,
+      "title": "Asian Chicken Salad",
+      "description": "Grilled chicken, mixed greens, mandarin oranges, and sesame dressing",
+      "price": "12.95",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 19,
+      "title": "Caprese Salad",
+      "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic glaze",
+      "price": "9.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 20,
+      "title": "Chef's Salad",
+      "description": "Ham, turkey, Swiss cheese, hard-boiled eggs, and ranch dressing",
+      "price": "11.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Pasta": [
+    {
+      "id": 21,
+      "title": "Spaghetti Bolognese",
+      "description": "Spaghetti with rich meat sauce and Parmesan cheese",
+      "price": "13.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 22,
+      "title": "Fettuccine Alfredo",
+      "description": "Creamy Alfredo sauce with fettuccine pasta",
+      "price": "12.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 23,
+      "title": "Linguine with Clam Sauce",
+      "description": "Linguine pasta with white wine and garlic clam sauce",
+      "price": "14.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 24,
+      "title": "Penne alla Vodka",
+      "description": "Penne pasta in a creamy tomato and vodka sauce",
+      "price": "13.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 25,
+      "title": "Pesto Pasta",
+      "description": "Pasta tossed in fresh basil pesto sauce",
+      "price": "12.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 26,
+      "title": "Lasagna",
+      "description": "Layers of pasta, ricotta, mozzarella, and meat sauce",
+      "price": "15.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 27,
+      "title": "Carbonara",
+      "description": "Pasta with eggs, cheese, pancetta, and black pepper",
+      "price": "14.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 28,
+      "title": "Baked Ziti",
+      "description": "Ziti pasta baked with marinara sauce and mozzarella cheese",
+      "price": "12.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 29,
+      "title": "Ravioli with Sage Butter",
+      "description": "Cheese-filled ravioli with a sage and butter sauce",
+      "price": "13.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 30,
+      "title": "Shrimp Scampi Linguine",
+      "description": "Linguine pasta with garlic, white wine, and shrimp",
+      "price": "16.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Meats": [
+    {
+      "id": 31,
+      "title": "Filet Mignon",
+      "description": "Tender grilled filet served with mashed potatoes and asparagus",
+      "price": "28.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 32,
+      "title": "New York Strip Steak",
+      "description": "Juicy grilled New York strip steak with a side of fries",
+      "price": "24.95",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 33,
+      "title": "Grilled Chicken Breast",
+      "description": "Marinated grilled chicken breast with mixed vegetables",
+      "price": "16.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 34,
+      "title": "BBQ Ribs",
+      "description": "Slow-cooked BBQ ribs with coleslaw and baked beans",
+      "price": "19.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 35,
+      "title": "Lamb Chops",
+      "description": "Herb-marinated lamb chops served with couscous",
+      "price": "22.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 36,
+      "title": "Pork Tenderloin",
+      "description": "Roasted pork tenderloin with apple chutney",
+      "price": "18.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 37,
+      "title": "Sausage and Peppers",
+      "description": "Italian sausage with sautéed bell peppers and onions",
+      "price": "15.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 38,
+      "title": "Beef Stroganoff",
+      "description": "Tender beef in a creamy mushroom sauce served over egg noodles",
+      "price": "17.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 39,
+      "title": "Chicken Parmesan",
+      "description": "Breaded chicken breast topped with marinara sauce and mozzarella cheese",
+      "price": "16.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 40,
+      "title": "Honey Glazed Ham",
+      "description": "Sliced honey-glazed ham with sweet potato casserole",
+      "price": "19.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Seafood": [
+    {
+      "id": 41,
+      "title": "Grilled Salmon",
+      "description": "Fresh grilled salmon fillet with lemon dill sauce",
+      "price": "19.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 42,
+      "title": "Shrimp Scampi",
+      "description": "Sautéed shrimp in garlic butter and white wine sauce",
+      "price": "18.95",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 43,
+      "title": "Lobster Tail",
+      "description": "Butter-poached lobster tail served with drawn butter",
+      "price": "26.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 44,
+      "title": "Clam Chowder",
+      "description": "Creamy clam chowder with bacon and potatoes",
+      "price": "14.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 45,
+      "title": "Fish Tacos",
+      "description": "Soft tortillas filled with grilled fish, slaw, and chipotle mayo",
+      "price": "15.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 46,
+      "title": "Seafood Paella",
+      "description": "Traditional Spanish paella with shrimp, mussels, and saffron rice",
+      "price": "22.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 47,
+      "title": "Crab Cakes",
+      "description": "Pan-fried crab cakes served with remoulade sauce",
+      "price": "17.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 48,
+      "title": "Tuna Steak",
+      "description": "Seared tuna steak with sesame crust and ginger soy glaze",
+      "price": "21.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 49,
+      "title": "Scallops with Risotto",
+      "description": "Pan-seared scallops served with creamy risotto",
+      "price": "24.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 50,
+      "title": "Fish and Chips",
+      "description": "Crispy battered fish with fries and tartar sauce",
+      "price": "16.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "The New Sharing": [
+    {
+      "id": 51,
+      "title": "Loaded Nachos",
+      "description": "Tortilla chips topped with cheese, jalapeños, guacamole, and sour cream",
+      "price": "14.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 52,
+      "title": "Bacon-Wrapped Dates",
+      "description": "Dates stuffed with blue cheese, wrapped in bacon, and drizzled with balsamic glaze",
+      "price": "12.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 53,
+      "title": "Mediterranean Platter",
+      "description": "Hummus, falafel, pita bread, olives, and tzatziki sauce",
+      "price": "15.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 54,
+      "title": "Buffalo Chicken Wings",
+      "description": "Crispy chicken wings tossed in buffalo sauce with ranch dressing",
+      "price": "13.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 55,
+      "title": "Vegetable Spring Rolls",
+      "description": "Crispy spring rolls filled with vegetables and served with sweet chili sauce",
+      "price": "11.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 56,
+      "title": "Cheese Fondue",
+      "description": "Melted cheese served with bread, apples, and vegetables for dipping",
+      "price": "16.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 57,
+      "title": "Meat and Cheese Board",
+      "description": "Assorted meats, cheeses, and crackers with honey and mustard",
+      "price": "18.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 58,
+      "title": "BBQ Pulled Pork Sliders",
+      "description": "Mini pulled pork sandwiches with coleslaw on a slider bun",
+      "price": "14.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 59,
+      "title": "Stuffed Jalapeños",
+      "description": "Jalapeño peppers stuffed with cream cheese and wrapped in bacon",
+      "price": "12.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 60,
+      "title": "Spinach and Artichoke Flatbread",
+      "description": "Flatbread topped with spinach, artichokes, and melted cheese",
+      "price": "13.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Pizza": [
+    {
+      "id": 61,
+      "title": "Margherita Pizza",
+      "description": "Tomato sauce, mozzarella, fresh basil, and olive oil",
+      "price": "12.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 62,
+      "title": "Pepperoni Pizza",
+      "description": "Classic pepperoni pizza with tomato sauce and mozzarella",
+      "price": "13.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 63,
+      "title": "Hawaiian Pizza",
+      "description": "Ham, pineapple, tomato sauce, and mozzarella",
+      "price": "14.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 64,
+      "title": "BBQ Chicken Pizza",
+      "description": "BBQ sauce, grilled chicken, red onions, and mozzarella",
+      "price": "13.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 65,
+      "title": "Veggie Supreme Pizza",
+      "description": "Tomato sauce, mushrooms, bell peppers, olives, onions, and mozzarella",
+      "price": "14.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 66,
+      "title": "White Pizza",
+      "description": "Olive oil, garlic, ricotta, mozzarella, and spinach",
+      "price": "13.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 67,
+      "title": "Meat Lover's Pizza",
+      "description": "Tomato sauce, pepperoni, sausage, bacon, and mozzarella",
+      "price": "15.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 68,
+      "title": "Buffalo Chicken Pizza",
+      "description": "Buffalo sauce, grilled chicken, red onions, and mozzarella",
+      "price": "14.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 69,
+      "title": "Mushroom and Truffle Pizza",
+      "description": "White truffle oil, mushrooms, mozzarella, and Parmesan",
+      "price": "15.99",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 70,
+      "title": "Pesto and Goat Cheese Pizza",
+      "description": "Pesto sauce, goat cheese, sun-dried tomatoes, and arugula",
+      "price": "14.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Coffee": [
+    {
+      "id": 71,
+      "title": "Espresso",
+      "description": "A shot of intense, concentrated coffee",
+      "price": "2.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 72,
+      "title": "Cappuccino",
+      "description": "Espresso with steamed milk and a layer of frothed milk",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 73,
+      "title": "Latte",
+      "description": "Espresso with steamed milk and a small amount of frothed milk",
+      "price": "3.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 74,
+      "title": "Mocha",
+      "description": "Espresso with steamed milk, cocoa, and whipped cream",
+      "price": "4.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 75,
+      "title": "Americano",
+      "description": "Espresso with hot water, similar to drip coffee",
+      "price": "3.00",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 76,
+      "title": "Iced Coffee",
+      "description": "Chilled brewed coffee served over ice",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 77,
+      "title": "Caramel Macchiato",
+      "description": "Espresso with steamed milk, caramel syrup, and vanilla",
+      "price": "4.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 78,
+      "title": "Irish Coffee",
+      "description": "Coffee with Irish whiskey and topped with whipped cream",
+      "price": "5.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 79,
+      "title": "Affogato",
+      "description": "A scoop of vanilla ice cream drowned in a shot of espresso",
+      "price": "4.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 80,
+      "title": "Turkish Coffee",
+      "description": "Finely ground coffee brewed in hot water, often with cardamom",
+      "price": "3.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Tea": [
+    {
+      "id": 81,
+      "title": "Green Tea",
+      "description": "Steamed green tea leaves with a light, earthy flavor",
+      "price": "2.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 82,
+      "title": "Black Tea",
+      "description": "Rich, bold black tea with a robust flavor",
+      "price": "2.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 83,
+      "title": "Earl Grey Tea",
+      "description": "Black tea with bergamot orange flavoring",
+      "price": "3.00",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 84,
+      "title": "Chai Tea",
+      "description": "Black tea with spices like cinnamon, cardamom, and ginger",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 85,
+      "title": "Herbal Tea",
+      "description": "Caffeine-free herbal infusion with various flavors",
+      "price": "2.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 86,
+      "title": "Oolong Tea",
+      "description": "Semi-oxidized tea with a unique flavor profile",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 87,
+      "title": "White Tea",
+      "description": "Delicate and light tea made from young tea leaves",
+      "price": "3.00",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 88,
+      "title": "Peppermint Tea",
+      "description": "Refreshing herbal tea with peppermint leaves",
+      "price": "2.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 89,
+      "title": "Jasmine Tea",
+      "description": "Green tea scented with jasmine blossoms",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 90,
+      "title": "Rooibos Tea",
+      "description": "Caffeine-free herbal tea from South Africa with a sweet and nutty flavor",
+      "price": "2.75",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ],
+  "Juice": [
+    {
+      "id": 91,
+      "title": "Orange Juice",
+      "description": "Freshly squeezed orange juice",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 92,
+      "title": "Apple Juice",
+      "description": "Pure apple juice with no added sugar",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 93,
+      "title": "Grapefruit Juice",
+      "description": "Tart and refreshing grapefruit juice",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 94,
+      "title": "Cranberry Juice",
+      "description": "Tangy cranberry juice, great for mixing with other drinks",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 95,
+      "title": "Pineapple Juice",
+      "description": "Sweet and tropical pineapple juice",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 96,
+      "title": "Carrot Juice",
+      "description": "Freshly pressed carrot juice",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 97,
+      "title": "Lemonade",
+      "description": "Classic lemonade made with freshly squeezed lemons",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 98,
+      "title": "Watermelon Juice",
+      "description": "Refreshing watermelon juice, perfect for hot days",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 99,
+      "title": "Mango Juice",
+      "description": "Sweet and exotic mango juice",
+      "price": "3.50",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    },
+    {
+      "id": 100,
+      "title": "Blueberry Juice",
+      "description": "Antioxidant-rich blueberry juice",
+      "price": "3.25",
+      "isAvailable": true,
+      "imageUrl": "./assets/image/demo/mushroomSoup.png"
+    }
+  ]
+}
