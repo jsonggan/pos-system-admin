@@ -4,6 +4,7 @@ import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import SelectLanguage from './pages/selectLanguage';
 import Menu from './pages/menu';
+import Login from './pages/auth/login';
 
 /** 
  * @param {Object} props
@@ -16,6 +17,7 @@ function App(props) {
       <Routes>
         <Route path="/" element={<SelectLanguage/>} />
         <Route path="/menu" element={<Menu/>} />
+        <Route path="/login" element={<Login/>} />
       </Routes>
     </BrowserRouter>
   );
