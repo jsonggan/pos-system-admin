@@ -9,10 +9,12 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Auth0Provider
-      domain="dev-hk5hn21iuhqqo500.us.auth0.com"
-      clientId="vE5V68kEGpzpq1Z3jVlmWch67RHPcgEK"
+      domain={process.env.REACT_APP_AUTH0_DOMAIN}
+      clientId={process.env.REACT_APP_AUTH0_CLIENT_ID}
       authorizationParams={{
-        redirect_uri: "http://localhost:3000/pos-system-admin/verifyUser"
+        redirect_uri: 'http://localhost:3006/pos-system-admin/',
+        audience: "http://localhost:3006/pos-system-admin/",
+        clientSecret: process.env.REACT_APP_AUTH0_CLIENT_SECRET
       }}
     >
     <App />
